@@ -11,24 +11,6 @@ Displays 6 images per page (3 on left, 3 on right)
  Responsive layout with clean design
 
  Hover effects on images (zoom and shadow)
- <br/>
- react-photo-album/
-│
-├── public/
-│   └── img/
-│       └── car.png (sample image used)
-│
-├── src/
-│   ├── pages/
-│   │   ├── ImgGrid.js
-│   │   └── Pagination.js
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── pages/imgGrid.css
-│
-├── package.json
-└── README.md
 <br/>
 <br/>
 How to Add Your Own Images
